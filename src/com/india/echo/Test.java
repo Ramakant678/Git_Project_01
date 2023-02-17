@@ -11,6 +11,7 @@ public class Test {
 		System.out.println(ind.sayPm());
 		System.out.println(ind.sayPr());
 		System.out.println(ind.sayCap());
+		System.out.println("This is India");
 		
 
 	}
