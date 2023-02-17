@@ -4,6 +4,7 @@ public class India {
 	
 	String pm;
 	String pr;
+	String cap;
 	public String sayPm() {
 		return pm;
 	}
@@ -15,6 +16,12 @@ public class India {
 	}
 	public void setPr(String pr) {
 		this.pr=pr;
+	}
+	public String sayCap(){
+	return cap;
+	}
+	public void setCap(String cap){
+	this.cap=cap;
 	}
 	
 
