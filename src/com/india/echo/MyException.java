@@ -1,6 +1,6 @@
 package com.india.echo;
 /*
-*Author : Ramakant kumar
+*Author : Ramakant kumar India
 */
 
 public class MyException extends RuntimeException {
